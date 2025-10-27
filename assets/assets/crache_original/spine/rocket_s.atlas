@@ -1,0 +1,59 @@
+rocket_s.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+fire4
+	bounds: 2, 42, 20, 112
+	rotate: 90
+fog_shine
+	bounds: 2, 764, 258, 258
+fxwater001_001
+	bounds: 2, 589, 202, 173
+fxwater001_002
+	bounds: 262, 849, 202, 173
+fxwater001_003
+	bounds: 2, 414, 202, 173
+fxwater001_004
+	bounds: 466, 849, 202, 173
+fxwater001_005
+	bounds: 2, 239, 202, 173
+fxwater001_006
+	bounds: 670, 849, 202, 173
+fxwater001_007
+	bounds: 2, 64, 202, 173
+fxwater001_008
+	bounds: 262, 674, 202, 173
+fxwater001_009
+	bounds: 466, 674, 202, 173
+fxwater001_010
+	bounds: 670, 674, 202, 173
+fxwater001_011
+	bounds: 206, 499, 202, 173
+fxwater001_012
+	bounds: 206, 324, 202, 173
+fxwater001_013
+	bounds: 410, 499, 202, 173
+fxwater001_014
+	bounds: 206, 149, 202, 173
+fxwater001_015
+	bounds: 410, 324, 202, 173
+fxwater001_016
+	bounds: 614, 499, 202, 173
+fxwater001_017
+	bounds: 410, 149, 202, 173
+fxwater001_018
+	bounds: 614, 324, 202, 173
+fxwater001_019
+	bounds: 614, 149, 202, 173
+fxwater001_020
+	bounds: 818, 470, 202, 173
+	rotate: 90
+fxwater001_021
+	bounds: 818, 266, 202, 173
+	rotate: 90
+head
+	bounds: 818, 113, 158, 151
+tail1
+	bounds: 2, 2, 38, 42
+	rotate: 90
+tail2
+	bounds: 874, 935, 69, 87

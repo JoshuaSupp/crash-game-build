@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    {
+      "family": "Poppins",
+      "src": "poppins.ttf"
+    },
+    {
+      "family": "Monopack",
+      "src": "Monopack.ttf"
+    }
+  ]
+}

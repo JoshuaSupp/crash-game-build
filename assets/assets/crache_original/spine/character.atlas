@@ -1,0 +1,11 @@
+character.webp
+size:904,960
+filter:Linear,Linear
+pma:true
+Character
+bounds:2,2,562,900
+offsets:194,0,900,900
+rotate:90
+back
+bounds:2,566,665,392
+offsets:29,16,694,422
